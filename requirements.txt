@@ -1,0 +1,7 @@
+robotframework==3.2.2
+robotframework-advancedlogging==2.0.0
+robotframework-pythonlibcore==2.1.0
+robotframework-requests==0.7.2
+robotframework-seleniumlibrary==4.5.0
+robotframework-seleniumscreenshots==0.9.5
+allure-robotframework==2.8.29
